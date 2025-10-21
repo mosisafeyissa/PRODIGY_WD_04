@@ -18,7 +18,7 @@ This project is a personal portfolio website designed to showcase my skills, pro
 
 ## Getting Started
 
-To view the project, you can use this link: https://mosisafeyissa.github.io/PRODIGY_WD_04/ . Feel free to customize the content and styles to reflect your personal brand.
+To view the project, you can use this link: [https://mosisafeyissa.github.io/PRODIGY_WD_04/](https://sunny-crepe-38b296.netlify.app/) . Feel free to customize the content and styles to reflect your personal brand.
 
 ## Contribution
 
